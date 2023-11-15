@@ -14,31 +14,31 @@
       'screenings' => [
         'MON' => [
           'time' => '9pm',
-          'rate' => 'discount'
+          'rate' => 'DISC'
         ],
         'TUE' => [
           'time' => '9pm',
-          'rate' => 'regular'
+          'rate' => 'FULL'
         ],
         'WED' => [
           'time' => '9pm',
-          'rate' => 'regular'
+          'rate' => 'FULL'
         ],
         'THU' => [
           'time' => '9pm',
-          'rate' => 'regular'
+          'rate' => 'FULL'
         ],
         'FRI' => [
           'time' => '9pm',
-          'rate' => 'regular'
+          'rate' => 'FULL'
         ],
         'SAT' => [
           'time' => '6pm',
-          'rate' => 'regular'
+          'rate' => 'FULL'
         ],
         'SUN' => [
           'time' => '6pm',
-          'rate' => 'regular'
+          'rate' => 'FULL'
         ]
       ]
     ],
